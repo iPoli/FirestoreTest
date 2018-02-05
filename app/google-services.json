@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "321683376092-ef36415o2dtqgguvl3j89n0rnt9oatfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fun.mypoli.firestoretest",
+            "certificate_hash": "5c5a50b077edcba8135216e6cb2de04c05075117"
+          }
+        },
+        {
           "client_id": "321683376092-ltn60trvhhejf81lla1q1s7p8lpfqf51.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321683376092-ltn60trvhhejf81lla1q1s7p8lpfqf51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
